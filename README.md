@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-weight: bold;">Catálodo de Produtos 💻</h1>
+<h1 align="center" style="font-weight: bold;">API Catálogo de Produtos 💻</h1>
 
 
 <p align="center">
