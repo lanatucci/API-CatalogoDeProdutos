@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <b>Projeto de uma API RESTful em ASP.NET Core (.NET 9) programada em C# para gerenciamento de um catálogo de produtos e categorias. Utiliza MySQL Workbench com Entity Framework Core para facilitar a integração com o banco de dados</b>
+    <b>Projeto de uma API RESTful em ASP.NET Core (.NET 9) programada em C# para gerenciamento de um catálogo de produtos e categorias. Utiliza MySQL Workbench com Entity Framework Core para facilitar a integração com o banco de dados.</b>
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
@@ -19,24 +19,24 @@
 
 Rotas do Controller Categoria
 ​
-| route               | description                                          
+| Rota               | Descrição                                          
 |----------------------|-----------------------------------------------------
-| <kbd>GET /Categorias/Produtos | Retorna todas as categorias junto com os produtos relacionados [Detalhes do Response](#get-auth-detail)
-| <kbd>GET /Categorias | Retorna todas as categorias
-| <kbd>POST /Categorias | Cria uma nova categoria
-| <kbd>GET /Categorias/{id} | Retona uma categoria 
-| <kbd>PUT /Categorias/{id} | Adiciona uma categoria
-| <kbd>DELETE /Categorias/{id} | Deleta uma categoria
+| <kbd>GET /Categorias/Produtos | Retorna todas as categorias junto com os produtos relacionados. [Detalhes do Response](#get-auth-detail)
+| <kbd>GET /Categorias | Retorna todas as categorias.
+| <kbd>POST /Categorias | Cria uma nova categoria.
+| <kbd>GET /Categorias/{id} | Retona uma categoria. 
+| <kbd>PUT /Categorias/{id} | Adiciona uma categoria.
+| <kbd>DELETE /Categorias/{id} | Deleta uma categoria.
 
 Rotas do Controller Produto
 ​
-| route               | description                                          
+| Rota               | Descrição                                        
 |----------------------|-----------------------------------------------------
-| <kbd>GET /Produtos | Retorna todos os produtos [Detalhes do Response](#getProd-auth-detail)
-| <kbd>POST /Produtos | Cria um novo produto
-| <kbd>GET /Produtos/{id} | Retona um produto 
-| <kbd>PUT /Produtos/{id} | Adiciona um produto
-| <kbd>DELETE /Produtos/{id} | Deleta um produto
+| <kbd>GET /Produtos | Retorna todos os produtos. [Detalhes do Response](#getProd-auth-detail)
+| <kbd>POST /Produtos | Cria um novo produto.
+| <kbd>GET /Produtos/{id} | Retona um produto. 
+| <kbd>PUT /Produtos/{id} | Adiciona um produto.
+| <kbd>DELETE /Produtos/{id} | Deleta um produto.
 
 <h3 id="get-auth-detail">GET /Categorias/Produtos </h3>
 
