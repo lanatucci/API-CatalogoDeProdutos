@@ -1,0 +1,16 @@
+# Build e dependências
+bin/
+obj/
+out/
+
+# Configurações locais
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Cache e backups
+*.bak
+*.tmp
