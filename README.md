@@ -24,8 +24,8 @@ Rotas do Controller Categoria
 | <kbd>GET /Categorias/Produtos | Retorna todas as categorias junto com os produtos relacionados. [Detalhes do Response](#get-auth-detail)
 | <kbd>GET /Categorias | Retorna todas as categorias.
 | <kbd>POST /Categorias | Cria uma nova categoria.
-| <kbd>GET /Categorias/{id} | Retona uma categoria. 
-| <kbd>PUT /Categorias/{id} | Adiciona uma categoria.
+| <kbd>GET /Categorias/{id} | Retorna uma categoria. 
+| <kbd>PUT /Categorias/{id} | Atualiza uma categoria.
 | <kbd>DELETE /Categorias/{id} | Deleta uma categoria.
 
 Rotas do Controller Produto
@@ -34,8 +34,8 @@ Rotas do Controller Produto
 |----------------------|-----------------------------------------------------
 | <kbd>GET /Produtos | Retorna todos os produtos. [Detalhes do Response](#getProd-auth-detail)
 | <kbd>POST /Produtos | Cria um novo produto.
-| <kbd>GET /Produtos/{id} | Retona um produto. 
-| <kbd>PUT /Produtos/{id} | Adiciona um produto.
+| <kbd>GET /Produtos/{id} | Retorna um produto. 
+| <kbd>PUT /Produtos/{id} | Atualiza um produto.
 | <kbd>DELETE /Produtos/{id} | Deleta um produto.
 
 <h3 id="get-auth-detail">GET /Categorias/Produtos </h3>
