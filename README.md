@@ -1,19 +1,12 @@
 # APIRestful-CatalogoDeProdutos
 <h1 align="center" style="font-weight: bold;">Catálodo de Produtos 💻</h1>
 
-<p align="center">
- <a href="#tech">Technologies</a> • 
- <a href="#started">Getting Started</a> • 
-  <a href="#routes">API Endpoints</a> •
- <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
-</p>
 
 <p align="center">
-    <b>Projeto de uma API RESTful em ASP.NET Core (.NET 9) programada em C# para gerenciamento de um catálogo de produtos e categorias, possui dois Controllers: Produto e Categoria. Utiliza Entity Framework Core com MySQL Workbench para facilitar a integração com o banco de dados</b>
+    <b>Projeto de uma API RESTful em ASP.NET Core (.NET 9) programada em C# para gerenciamento de um catálogo de produtos e categorias. Utiliza MySQL Workbench com Entity Framework Core para facilitar a integração com o banco de dados</b>
 </p>
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="technologies">💻 Tecnologias</h2>
 
 - C#
 - .NET 9.0  
